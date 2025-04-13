@@ -7,6 +7,7 @@
 // The program uses the standard namespace to avoid prefixing standard library functions with "std::".
 // Each step is commented to explain its purpose.
 // rand() is used to generate a random number, and srand() seeds the random number generator with the current time to ensure different results each run.
+// Return 0 indicates successful completion of the program.
 
 
 #include <iostream>
