@@ -1,6 +1,10 @@
 // CSC-221 Chapter 5 Programming Project.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-// 
+// Write a program that produces a bar graph of the population growth of a city/town. The program should be able to read the data from a file of any name.
+// <iostream>, <fstream>, and <string> are included to handle input and output operations.
+// namespaces are used to avoid prefixing standard library functions with "std::".
+// See below for explanation of the code.
+// Return 0 indicates successful completion of the program.
 
 #include <iostream>
 #include <fstream>
