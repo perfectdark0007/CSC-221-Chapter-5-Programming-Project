@@ -5,8 +5,9 @@
 // Once the user guesses the correct number, the program should display how many guesses it took to get the correct answer.
 // <iostream>, <cstdlib>, <ctime> are included for input/output, random number generation, and time functions respectively.
 // The program uses the standard namespace to avoid prefixing standard library functions with "std::".
+// Each step is commented to explain its purpose.
 // rand() is used to generate a random number, and srand() seeds the random number generator with the current time to ensure different results each run.
-// 
+
 
 #include <iostream>
 #include <cstdlib>  // For rand() and srand()
