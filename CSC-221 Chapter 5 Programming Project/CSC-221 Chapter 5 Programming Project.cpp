@@ -6,6 +6,7 @@
 // const int rows = 10; defines the number of rows for the patterns.
 // Each step is commented to explain its purpose.
 // setw() is used to keep the output aligned.
+// Return 0; indicates successful completion of the program.
 
 
 #include <iostream>
