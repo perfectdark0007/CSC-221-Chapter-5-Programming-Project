@@ -4,6 +4,7 @@
 // <iostream>, <fstream>, and <string> are included to handle input and output operations.
 // namespaces are used to avoid prefixing standard library functions with "std::".
 // Each step is commented to explain its purpose.
+// string is used to handle text data.
 // Return 0 indicates successful completion of the program.
 
 #include <iostream>
