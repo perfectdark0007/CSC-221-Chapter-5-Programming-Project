@@ -4,7 +4,8 @@
 // <iostream> and <iomanip> libraries are used to format the output.
 // namespace std is used to avoid prefixing standard library functions with std::.
 // const int rows = 10; defines the number of rows for the patterns.
-// Details are provided to format the output neatly.
+// Each step is commented to explain the details of the code.
+
 
 #include <iostream>
 #include <iomanip>
